@@ -65,6 +65,7 @@ Proyek ini mensimulasikan pendekatan _data-driven forecasting_ yang dapat memban
 ### Forecasting Pipeline
 Fungsi `forecast_beban_listrik()` dibangun modular agar siap digunakan:
 
+```
 def forecast_beban_listrik(data, steps=7, order=(5,1,0)):
 
 ✅ Siap integrasi ke:
@@ -112,6 +113,4 @@ Mahasiswa S1 Sains Data – UPN "Veteran" Jawa Timur
 
 Terima kasih telah mengunjungi proyek ini!
 Kalau kamu punya pertanyaan, saran, atau ingin diskusi seputar topik ini — jangan ragu untuk kontak saya lewat GitHub 😄
-
-```
 
