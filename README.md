@@ -67,6 +67,7 @@ Fungsi `forecast_beban_listrik()` dibangun modular agar siap digunakan:
 
 ```
 def forecast_beban_listrik(data, steps=7, order=(5,1,0)):
+```
 
 ✅ Siap integrasi ke:
 
