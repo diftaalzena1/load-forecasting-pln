@@ -1,4 +1,3 @@
-````markdown
 # ⚡ Short-Term Electric Load Forecasting for Grid Demand Planning (Dummy Project for PLN Use Case)
 
 Halo! Ini adalah proyek portofolio saya sebagai seorang data scientist, yang berfokus pada bagaimana data time series dapat dimanfaatkan untuk perencanaan distribusi daya listrik jangka pendek — terutama di sektor energi dan kelistrikan.
@@ -69,7 +68,6 @@ Fungsi `forecast_beban_listrik()` dibangun modular agar siap digunakan:
 ```python
 def forecast_beban_listrik(data, steps=7, order=(5,1,0)):
     ...
-````
 
 ✅ Siap integrasi ke:
 
